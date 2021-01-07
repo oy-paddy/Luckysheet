@@ -9,7 +9,7 @@
 - [Luckysheet如何把表格里的数据保存到数据库](https://www.cnblogs.com/DuShuSir/p/13857874.html)
 - [本地HTML采用cdn加载方式引入Luckysheet的案例](https://www.cnblogs.com/DuShuSir/p/13859103.html)
 - [Luckysheet基础用法，使用loadUrl加载服务端数据](https://blog.csdn.net/DCDC2020/article/details/108486525)
-- [Luckysheet 导入与导出实现 - Java后台处理](https://blog.csdn.net/u014632228/article/details/109738221)
+- [Luckysheet 导入导出 - Java后台处理和js前端实现](https://blog.csdn.net/u014632228/article/details/109738221)
 
 ## 前端案例
 
